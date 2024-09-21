@@ -2,7 +2,38 @@
 
 # Project Description
 
-This project analyzes crime data in Los Angeles from 2020 to 2023 using Power BI. The aim is to visualize trends in crime rates, types of crimes, areas of high crime concentration, and demographic patterns of both victims and perpetrators.The dashboard allows users to filter by year, crime type, area, and demographic data to explore trends. Each chart is interactive, providing deeper insights into specific crime patterns across Los Angeles.
+This project analyzes crime data in Los Angeles from 2020 to 2023 using Power BI. The aim is to visualize trends in crime rates, types of crimes, areas of high crime concentration, and demographic patterns of both victims and perpetrators.The dashboard allows users to filter by year, crime type, area, and demographic data to explore trends. Each chart is interactive, providing deeper insights into specific crime patterns across Los Angeles.By leveraging data visualization, this dashboard offers an in-depth look at how crime patterns have evolved, allowing stakeholders like law enforcement, city officials, and community organizations to make informed decisions about crime prevention, resource allocation, and community safety.
+
+# Business Questions:
+
+   1. What is the overall trend of crime in Los Angeles from 2020 to 2023?
+
+   2. What are the most common types of crimes in Los Angeles?
+
+   3. Which areas in Los Angeles have the highest crime rates?
+
+   4. What is the distribution of crime by victim demographic (gender, descent, and age)?
+
+   5. What weapons are most commonly used in crimes?
+
+   6. What premises or locations see the most criminal activity?
+
+# Project Goals:
+
+   1. Reduce overall crime rates in Los Angeles.
+        * Analyze trends and patterns to create focused intervention strategies.
+
+   2. Enhance law enforcement resource allocation.
+        * Use data to ensure police are deployed efficiently in high-crime areas or during peak times.
+
+   3. Improve community safety and trust.
+        * Identify areas and demographics that need focused safety measures and community outreach.
+
+   4. Support policy-making and crime prevention programs.
+        * Provide lawmakers and stakeholders with accurate data to implement crime reduction policies.
+
+   5. Monitor the effectiveness of implemented strategies.
+        * Use year-to-year data to measure how crime rates respond to various interventions.
 
 # Dashboard
 
