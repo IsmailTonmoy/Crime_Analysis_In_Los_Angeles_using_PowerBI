@@ -18,6 +18,23 @@ This project analyzes crime data in Los Angeles from 2020 to 2023 using Power BI
 
    6. What premises or locations see the most criminal activity?
 
+# Project Objectives:
+
+   1. Identify key crime trends over the past three years.
+        * Provide detailed reports to highlight which crime types have surged or declined.
+
+   2. Develop a resource allocation plan based on crime hotspots.
+        * Use geographical crime data to guide police patrols and surveillance.
+
+   3. Track crime by demographics to target vulnerable populations.
+        * Implement victim support and preventive measures for groups disproportionately affected by crime.
+
+   4. Deploy data-driven crime prevention strategies.
+        * Use historical data to anticipate crime spikes and proactively address them.
+
+   5. Collaborate with community organizations to improve safety.
+        * Share insights with local communities to enhance neighborhood watch programs or other safety initiatives.
+          
 # Project Goals:
 
    1. Reduce overall crime rates in Los Angeles.
